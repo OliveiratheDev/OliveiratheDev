@@ -1,107 +1,54 @@
 <div align="center">
 
-# Gabriel Oliveira
+# 👋 Olá, eu sou Gabriel Oliveira
 
-### Back-end Developer | Java & Spring Boot
+### ☕ Back-end Developer | Java & Spring Boot
 
-Desenvolvimento de APIs REST e aplicações backend com foco em boas práticas, arquitetura, testes e evolução contínua.
+<p>
+  Desenvolvendo backends, explorando arquitetura de software<br>
+  e evoluindo um commit por vez.
+</p>
+
+<br>
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-833a58373">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/OliveiratheDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-OliveiratheDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## Sobre mim
-
-Sou desenvolvedor Back-end com foco no ecossistema **Java e Spring**.
-
-Tenho direcionado meus estudos e projetos para desenvolvimento de aplicações backend, construção de APIs REST, persistência de dados, segurança, testes e organização de código.
-
-Atualmente, venho aprofundando conhecimentos em arquitetura de software e no ecossistema Spring, buscando aplicar os conceitos em projetos próximos de cenários encontrados em ambientes profissionais.
-
----
-
-## Stack
-
-**Back-end**
-
-`Java 21` • `Spring Boot` • `Spring Data JPA` • `Spring Security` • `Hibernate`
-
-**Banco de dados**
-
-`PostgreSQL` • `Redis` • `MongoDB`
-
-**APIs e Segurança**
-
-`REST` • `JWT` • `OpenAPI / Swagger`
-
-**Infraestrutura e ferramentas**
-
-`Docker` • `Flyway` • `Maven` • `Git` • `GitHub` • `Linux`
-
-**Testes**
-
-`JUnit` • `Mockito`
-
----
-
-## Projeto em destaque
-
-### OrderFlow
-
-Backend para gerenciamento de **pedidos e cobrança de e-commerce**, desenvolvido como projeto de estudo e portfólio utilizando Java e Spring Boot.
-
-O projeto simula práticas utilizadas em um ambiente de desenvolvimento profissional, incluindo:
-
-- arquitetura organizada por domínio;
-- APIs REST;
-- Spring Boot;
-- Spring Data JPA / Hibernate;
-- PostgreSQL;
-- migrations com Flyway;
-- validação de dados;
-- tratamento global de exceções;
-- autenticação e autorização com Spring Security/JWT;
-- testes automatizados;
-- Docker;
-- branches por feature;
-- Pull Requests;
-- Conventional Commits;
-- integração contínua.
-
-O objetivo do projeto é evoluir progressivamente conceitos de backend, arquitetura e engenharia de software através da implementação prática.
-
----
-
-## Atualmente estudando
-
-`Kafka` • `Microsserviços` • `Kubernetes` • `AWS`
-
-Com foco em entender não apenas a utilização das ferramentas, mas os problemas arquiteturais que cada uma busca resolver.
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OliveiratheDev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiratheDev&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=OliveiratheDev&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre mim
 
-**Java • Spring Boot • Backend Engineering**
+```java
+public class GabrielOliveira {
 
-</div>
+    private final String role = "Back-end Developer";
+
+    private final String[] mainStack = {
+        "Java 21",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+    };
+
+    private final String currentProject = "OrderFlow";
+
+    private final String[] learning = {
+        "Kafka",
+        "Microservices",
+        "Kubernetes",
+        "AWS"
+    };
+
+    public String goal() {
+        return "Build better software every day.";
+    }
+}
