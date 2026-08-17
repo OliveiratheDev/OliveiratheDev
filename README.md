@@ -4,19 +4,20 @@
 
 ### Back-end Developer | Java & Spring Boot
 
-Desenvolvendo APIs, estudando arquitetura de software e evoluindo um commit por vez.
+Desenvolvimento de APIs REST e aplicações backend com foco em  
+**boas práticas • arquitetura • testes • evolução contínua**
 
 <br>
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-833a58373">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/OliveiratheDev">
-  <img src="https://img.shields.io/badge/GitHub-OliveiratheDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-OliveiratheDev-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=OliveiratheDev&style=for-the-badge&label=VISITAS"/>
+<img src="https://komarev.com/ghpvc/?username=OliveiratheDev&style=for-the-badge&label=VISITAS">
 
 </div>
 
@@ -26,9 +27,9 @@ Desenvolvendo APIs, estudando arquitetura de software e evoluindo um commit por 
 
 Sou desenvolvedor **Back-end** com foco no ecossistema **Java e Spring**.
 
-Tenho direcionado meus estudos e projetos para construção de aplicações backend, desenvolvimento de APIs REST, persistência de dados, segurança, testes automatizados e arquitetura de software.
+Tenho direcionado meus estudos e projetos para desenvolvimento de aplicações backend, construção de **APIs REST**, persistência de dados, segurança, testes automatizados e organização de código.
 
-Atualmente, venho aprofundando conhecimentos em engenharia de software e sistemas distribuídos, buscando entender não apenas como utilizar cada tecnologia, mas também os problemas que ela resolve e os trade-offs envolvidos.
+Atualmente venho aprofundando conhecimentos em **arquitetura de software e sistemas distribuídos**, buscando aplicar esses conceitos em projetos próximos de cenários encontrados em ambientes profissionais.
 
 ---
 
@@ -36,43 +37,37 @@ Atualmente, venho aprofundando conhecimentos em engenharia de software e sistema
 
 <div align="center">
 
-### Backend
+### ☕ Back-end
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=java,spring,maven">
 
 **Java 21 • Spring Boot • Spring Data JPA • Spring Security • Hibernate**
 
-<br><br>
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"/>
-
 <br>
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb">
 
 **PostgreSQL • Redis • MongoDB**
 
-<br><br>
-
-### Infraestrutura & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea"/>
-
 <br>
+
+### 🐳 Infraestrutura & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea">
 
 **Docker • Flyway • Maven • Git • GitHub • Linux**
 
-<br><br>
+<br>
 
-### APIs, Segurança & Testes
+### 🧪 APIs • Segurança • Testes
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens">
+<img src="https://img.shields.io/badge/OpenAPI-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-Testing-78A641?style=for-the-badge">
 
 </div>
 
@@ -82,91 +77,68 @@ Atualmente, venho aprofundando conhecimentos em engenharia de software e sistema
 
 <div align="center">
 
-# OrderFlow
+### 📦 OrderFlow
 
-### E-commerce Order & Payment Backend
+**E-commerce Order & Payment Backend**
 
-<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 
 </div>
 
 <br>
 
-O **OrderFlow** é um backend para gerenciamento de pedidos e cobranças de e-commerce, desenvolvido com Java e Spring Boot.
+O **OrderFlow** é um backend para gerenciamento de pedidos e cobranças de e-commerce desenvolvido para aplicar conceitos de engenharia de software além de um CRUD tradicional.
 
-O projeto foi criado com o objetivo de aplicar conceitos de engenharia de software em um cenário mais próximo de uma aplicação real, indo além de operações CRUD tradicionais.
+O projeto utiliza uma arquitetura modular organizada por domínio e aplica conceitos de **Arquitetura Hexagonal** no módulo de pagamentos.
 
-### Principais conceitos aplicados
+### ⚙️ Conceitos aplicados
 
-- Arquitetura modular organizada por domínio
-- APIs REST
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- Redis
-- Flyway
-- DTOs
-- Bean Validation
-- Tratamento global de exceções
-- Spring Security
-- JWT
-- Arquitetura Hexagonal no módulo de pagamentos
-- JUnit
-- Mockito
-- Docker
-- OpenAPI / Swagger
-- Feature Branches
-- Pull Requests
-- Conventional Commits
-- Architecture Decision Records
-- Integração contínua
+| Backend | Arquitetura | Infra & Qualidade |
+|---|---|---|
+| Java 21 | Modularização por domínio | Docker |
+| Spring Boot | Arquitetura Hexagonal | Flyway |
+| Spring Data JPA | DTOs | JUnit |
+| Hibernate | Bean Validation | Mockito |
+| PostgreSQL | Global Exception Handler | CI |
+| Redis | Spring Security + JWT | Pull Requests |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=OliveiratheDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliveiratheDev&theme=github_dark">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiratheDev&layout=compact&langs_count=8&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OliveiratheDev&theme=github_dark">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OliveiratheDev&theme=github_dark&utcOffset=-3">
 
 </div>
 
 ---
 
-## 🔥 Commits & Consistência
+## 🔥 Evoluindo um commit por vez
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OliveiratheDev&hide_border=true"/>
+<img src="https://img.shields.io/github/commit-activity/m/OliveiratheDev/OrderFlow?style=for-the-badge&logo=github&label=COMMITS%20NO%20MÊS">
+
+<img src="https://img.shields.io/github/last-commit/OliveiratheDev/OrderFlow?style=for-the-badge&logo=git&label=ÚLTIMO%20COMMIT">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliveiratheDev&theme=github_dark"/>
+<img src="https://img.shields.io/github/stars/OliveiratheDev?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS">
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OliveiratheDev&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OliveiratheDev&theme=github_dark&utcOffset=-3"/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliveiratheDev&hide_border=true&area=true"/>
+<img src="https://img.shields.io/github/followers/OliveiratheDev?style=for-the-badge&logo=github&label=SEGUIDORES">
 
 </div>
 
@@ -176,52 +148,55 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiratheD
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kafka,kubernetes,aws"/>
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes,aws">
 
 <br><br>
 
-### Kafka • Microsserviços • Kubernetes • AWS
+**Apache Kafka • Microsserviços • Kubernetes • AWS**
 
 </div>
 
-Meu foco é compreender não apenas como utilizar essas tecnologias, mas também os problemas arquiteturais e operacionais que motivam sua adoção.
+<br>
+
+Meu foco é entender não apenas **como utilizar cada tecnologia**, mas principalmente:
+
+> **qual problema ela resolve, quando sua utilização faz sentido e quais trade-offs ela adiciona à arquitetura.**
 
 ---
 
-## 🎯 Interesses
+## 🎯 Foco atual
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend_Engineering-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Architecture-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Engineering-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/Software_Architecture-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/Distributed_Systems-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge">
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🤝 Vamos nos conectar?
 
-<div align="center">
+Estou sempre aberto a trocar conhecimento sobre **Java, Spring, Backend e Arquitetura de Software**.
 
-Aberto a conexões, projetos e oportunidades em desenvolvimento Back-end.
-
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-833a58373">
-  <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/OliveiratheDev">
-  <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-### ☕ Code • Learn • Build • Repeat
+### ☕ Code. Learn. Build. Repeat.
 
-**Evoluindo um commit por vez.**
+**Evoluindo um commit por vez. 🚀**
 
 </div>
